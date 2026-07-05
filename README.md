@@ -18,6 +18,8 @@ Skilled at building intelligent systems, clean UIs, and scalable solutions with 
 ### Programming  
 - **Python**
 - **JavaScript**
+- **Django Backend**
+- **Rest Apis**
 
 ### AI, ML & Data Science  
 - Artificial Intelligence concepts  
@@ -30,6 +32,11 @@ Skilled at building intelligent systems, clean UIs, and scalable solutions with 
 - **HTML5**
 - **CSS3**
 - **React.js**
+- **Django backend**
+- **MongoDb**
+- **MySql**
+- **MariaDb**
+- **Payment gateway Integrations**
 - Responsive UI development  
 - Component-based architecture  
 
@@ -50,6 +57,8 @@ Skilled at building intelligent systems, clean UIs, and scalable solutions with 
 - Worked on practical development tasks using Python and web technologies  
 - Collaborated in a team environment following industry practices  
 - Improved code quality, debugging, and project documentation skills  
+** Full stack Developer**
+I build digital engines. Currently, at Socialmistry, I serve as a Full Stack Developer focusing on delivering end-to-end web applications that bridge the gap between complex client visions and high-performance
 
 ---
 
@@ -82,7 +91,7 @@ Skilled at building intelligent systems, clean UIs, and scalable solutions with 
 
 ## 📫 Contact & Opportunities  
 
-- Open to **Internships | Entry-Level Roles | Trainee Positions**  
+- Open to ** | Entry-Level Roles | Trainee Positions**  
 - Interested in **AI/ML, Data Science, and Full Stack Development** roles  
 
 ⭐ *If you’re a recruiter, feel free to explore my repositories and connect for opportunities.*  
